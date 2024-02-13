@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Pure Update - NEWS App</string>
-    <string name="api_key">301d3ab515504a5c9c1f94f2d4830e73</string>
+    <string name="api_key">Paste your NEWS API</string>
 </resources>
